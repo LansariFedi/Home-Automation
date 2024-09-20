@@ -1,3 +1,3 @@
 # Home-Automation
 ### The project demo and explanation video:
-[![Home Automation Project](https://www.youtube.com/watch?v=Ds56OVK9Ctw&ab_channel=Gamer4ever/0.jpg)](https://www.youtube.com/watch?v=Ds56OVK9Ctw&ab_channel=Gamer4ever)
+https://github.com/user-attachments/assets/3d6a29c2-bd3e-4664-9667-d98f2c622fa2
